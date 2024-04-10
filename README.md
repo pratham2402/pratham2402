@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham2402&label=Profile%20views&color=0e75b6&style=flat" alt="pratham2402" /> </p>
 
-- 🔭 I’m currently working on **Stock Market Price Prediction**
+- 🔭 I’m currently working on **Currency Conversion Project With API Integration**
 
 - 🌱 I’m currently learning **YOLO, LSTM (Long Short Term Memory Network)**
 
