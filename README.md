@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham2402&label=Profile%20views&color=0e75b6&style=flat" alt="pratham2402" /> </p>
 
-- 🔭 I’m currently working on **Currency Conversion Project With API Integration**
+- 🔭 I’m currently working on **Anomaly Detection In Industrial Machines (Edge Application)**
 
-- 🌱 I’m currently learning **YOLO, LSTM (Long Short Term Memory Network)**
+- 🌱 I’m currently learning **Java (SpringBoot)**
 
-- 💬 Ask me about **C++, Python, YOLO, Object Detection**
+- 💬 Ask me about **Java, C++, Python, Edge Devices (Arduino, Raspberry Pi)**
 
 - ⚡ Fun fact **I built (assembled) my computer in 7th grade.**
 
