@@ -1,15 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
 <h1 align="center">Hi 👋, I'm Pratham Bhosale</h1>
-<h3 align="center">Passionate BTech CSE student in India with a keen interest in programming and AI.</h3>
+<h3 align="center">Software Developer | AI Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham2402&label=Profile%20views&color=0e75b6&style=flat" alt="pratham2402" /> </p>
 
-- 🔭 I’m currently working on **building scalable data pipelines and applying statistical methods to derive insights, automate workflows, and support data-driven decision-making**
+- 🔭 I’m currently working on **Generative AI (GenAI) and Agentic AI systems**
 
-- 🌱 I’m currently learning **Scala, Apache Spark, PySpark, ETL Data Pipelines, PowerBI**
+- 🌱 I’m actively learning **Google AI Studio, LangChain, Prompt Engineering**
 
-- 💬 Ask me about **Java, C++, Python, Edge Devices (Arduino, Raspberry Pi), Edge Impulse, Postman, Linux**
+- 💬 Ask me about **Edge Computing (Arduino, Raspberry Pi, NVIDIA Jetson Nano), Edge Impulse, Programming Languages (Python, Java, C++), Postman, Linux, AI, Machine Learning, GenAI, and Agentic AI**
 
 - ⚡ Fun fact **I built (assembled) my computer in 7th grade.**
 
